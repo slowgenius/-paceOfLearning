@@ -1,7 +1,5 @@
 package com.slowgenius.designPatterns.factoryPattern;
 
-import com.slowgenius.designPatterns.factoryPattern.Menu;
-
 /**
  * @author slowgenius
  * @date 2019/12/14 16:52

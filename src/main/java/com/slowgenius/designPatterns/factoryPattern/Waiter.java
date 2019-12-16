@@ -15,6 +15,7 @@ public class Waiter {
         MapoBeancurd mapoBeancurd = (MapoBeancurd)chef1.cookDishes();
         menu.taste();
         mapoBeancurd.taste();
+        System.out.println(args);
 
     }
 
