@@ -1,4 +1,4 @@
-package com.slowgenius.designPatterns.simpleFactoryPattern;
+package com.slowgenius.designPatterns.creationalPatterns.simpleFactoryPattern.demo;
 
 /**
  * @author slowgenius

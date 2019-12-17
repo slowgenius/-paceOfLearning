@@ -1,4 +1,4 @@
-package com.slowgenius.designPatterns.factoryPattern;
+package com.slowgenius.designPatterns.creationalPatterns.factoryPattern.demo;
 
 
 
