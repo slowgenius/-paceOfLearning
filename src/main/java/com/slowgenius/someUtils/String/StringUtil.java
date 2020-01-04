@@ -1,4 +1,4 @@
-package com.slowgenius.someUtils;
+package com.slowgenius.someUtils.String;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.slowgenius.someUtils;
+package com.slowgenius.someUtils.Date;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -11,7 +11,6 @@ import java.time.temporal.ChronoUnit;
  * @description
  */
 public class DateUtil {
-    
 
     //相差天数
     public static long dateBetween(long startTime, long endTime,ChronoUnit unit) {
