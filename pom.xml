@@ -6,7 +6,12 @@
 
     <groupId>com.slowgenius</groupId>
     <artifactId>paceOfLearning</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>springLearning</module>
+        <module>dailyLearning</module>
+    </modules>
 
     <dependencies>
         <dependency>
