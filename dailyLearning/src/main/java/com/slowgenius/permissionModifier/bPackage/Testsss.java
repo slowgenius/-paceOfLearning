@@ -1,6 +1,6 @@
-package com.slowgenius.java.permissionModifier.bPackage;
+package com.slowgenius.permissionModifier.bPackage;
 
-import com.slowgenius.java.permissionModifier.aPackage.Father;
+import com.slowgenius.permissionModifier.aPackage.Father;
 
 /**
  * @author com.slowgenius

@@ -1,4 +1,4 @@
-package com.slowgenius.java.permissionModifier.aPackage;
+package com.slowgenius.permissionModifier.aPackage;
 
 /**
  * @author com.slowgenius
