@@ -23,6 +23,9 @@ public class Demo {
         Student studentCopy = (Student) student.clone();
         System.out.println(student == studentCopy);
         System.out.println(student.getTeacher() == studentCopy.getTeacher());
+
+        studentCopy.getTeacher().setId(3);
+        System.out.println(student.getTeacher().getId());
     }
 
     /**
@@ -50,6 +53,7 @@ public class Demo {
     }
 
     public static void main(String[] args) throws CloneNotSupportedException, IOException, ClassNotFoundException {
-        demo2();
+        //demo2();
+        demo1();
     }
 }
