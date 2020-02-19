@@ -12,6 +12,7 @@
         <module>springLearning</module>
         <module>dailyLearning</module>
         <module>exercise</module>
+        <module>miniSpring</module>
     </modules>
 
     <dependencies>
