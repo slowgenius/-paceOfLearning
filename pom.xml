@@ -13,6 +13,7 @@
         <module>dailyLearning</module>
         <module>exercise</module>
         <module>miniSpring</module>
+        <module>myBatisLearning</module>
     </modules>
 
     <dependencies>
